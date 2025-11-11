@@ -1,7 +1,7 @@
 # Analisis Wireshark: Dekripsi TLS & Deteksi Trojan Dryex
 
 **Tanggal:** 11/November/2025
-**Analis:** Xzavus
+**Analis:** Xzavis
 **Sumber Analisis:** Latihan ini didasarkan pada file PCAP dan video tutorial "Decrypting HTTPS Traffic With Wireshark".
 
 ---
@@ -49,8 +49,10 @@ Berikut adalah artefak forensik yang dikumpulkan dari analisis ini, yang dapat d
 * * **SHA1 Hash:** `[aac940f9906034938cd657ed2ba21bc675e6ae20 ]`
 
 ### 3. Jaringan (C2)
-* **URL C2:** `[IP/Domain C2 - cek di PCAP Anda]/docs.php` [00:12:08]
 * * **Filter Wireshark:** `165	2020-04-01 21:02:49.397114	10.4.1.101	50074	94.103.84.245	443	HTTP	251	GET /invest_20.dll HTTP/1.1 `
+
+
+![Bukti Unduhan Payload](image_bf049a.png)
 
 ## Kesimpulan & Rekomendasi
 
