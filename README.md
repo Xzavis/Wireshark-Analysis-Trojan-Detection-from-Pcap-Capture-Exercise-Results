@@ -52,7 +52,7 @@ Berikut adalah artefak forensik yang dikumpulkan dari analisis ini, yang dapat d
 * **Filter Wireshark:** `165	2020-04-01 21:02:49.397114	10.4.1.101	50074	94.103.84.245	443	HTTP	251	GET /invest_20.dll HTTP/1.1 `
 
 
-![Bukti Unduhan Payload](Screenshot 2025-11-11 151617.png)
+![Bukti Unduhan Payload]([Screenshot 2025-11-11 151617.png](https://github.com/Xzavis/Wireshark-Analysis-Trojan-Detection-from-Pcap-Capture-Exercise-Results/blob/main/Screenshot%202025-11-11%20151617.png?raw=true))
 
 ## Kesimpulan & Rekomendasi
 
