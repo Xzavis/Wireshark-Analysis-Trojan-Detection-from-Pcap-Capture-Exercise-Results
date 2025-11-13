@@ -49,10 +49,10 @@ Berikut adalah artefak forensik yang dikumpulkan dari analisis ini, yang dapat d
 * * **SHA1 Hash:** `[aac940f9906034938cd657ed2ba21bc675e6ae20 ]`
 
 ### 3. Jaringan (C2)
-* * **Filter Wireshark:** `165	2020-04-01 21:02:49.397114	10.4.1.101	50074	94.103.84.245	443	HTTP	251	GET /invest_20.dll HTTP/1.1 `
+* **Filter Wireshark:** `165	2020-04-01 21:02:49.397114	10.4.1.101	50074	94.103.84.245	443	HTTP	251	GET /invest_20.dll HTTP/1.1 `
 
 
-![Bukti Unduhan Payload](image_bf049a.png)
+![Bukti Unduhan Payload](Screenshot 2025-11-11 151617.png)
 
 ## Kesimpulan & Rekomendasi
 
